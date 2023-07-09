@@ -20,7 +20,7 @@ O projeto foi um desafio proposto pela Imersão DevQuest da semana MAPA DEV WEEK
     
          
 
-> Acesse a página on-line: <a href="" target=_blank> X-MEN </a>
+> Acesse a página on-line: <a href="https://x-men-sandy.vercel.app/" target=_blank> X-MEN </a>
 
 ## 🖱️ A página
 
